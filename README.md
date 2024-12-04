@@ -10,20 +10,18 @@ Currently learning React and Python.
 
 I am ready to collabe with anyone so, feel free to contact me with a mail id freedomchaserjb@gmail.com .
 
-That's it for now.
-
-
+ 
 
 I am planing to do following projects for next one year 
 | **Project**                              | **Complexity** | **Timeline**      | **Completed** |
 |------------------------------------------|----------------|-------------------|---------------|
-| Personal Blog                            | Beginner       | 1-2 weeks         | - [x] #739         |
-| Portfolio website                        | Beginner       | 1-2 weeks         | - [x]#739         |
-| Learning Apps                            | Beginner       | 2-3 weeks         | - [x]#739         |
-| Real Estate Listings                     | Beginner       | 2-3 weeks         | - [x]#739         |
-| Simple E-commerce site                   | Beginner       | 3-4 weeks         | - [x]#739         |
-| Task Management App                      | Beginner       | 3-4 weeks         | - [x]#739         |
-| Weather Application                      | Beginner       | 1-2 weeks         | - [x]#739         |
+| Personal Blog                            | Beginner       | 1-2 weeks         | - [x]         |
+| Portfolio website                        | Beginner       | 1-2 weeks         | - [x]         |
+| Learning Apps                            | Beginner       | 2-3 weeks         | - [x]         |
+| Real Estate Listings                     | Beginner       | 2-3 weeks         | - [x]         |
+| Simple E-commerce site                   | Beginner       | 3-4 weeks         | - [x]         |
+| Task Management App                      | Beginner       | 3-4 weeks         | - [x]         |
+| Weather Application                      | Beginner       | 1-2 weeks         | - [x]         |
 | Recipe Finder                            | Beginner       | 2-3 weeks         | - [x]         |
 | Social Media Dashboard                   | Beginner       | 3-4 weeks         | - [x]         |
 | Chat Application                         | Beginner       | 3-4 weeks         | - [x]         |
