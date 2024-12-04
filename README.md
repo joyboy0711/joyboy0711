@@ -1,4 +1,4 @@
-My Name is (as per the Certificate) Vigneshwaran R. But, I prefer call my self as a joyboy.
+My Name is (as per the Certificate) Vigneshwaran R. But, I prefer call my self as Joyboy.
 
 Currently planning to learn cool stuff and build something valuable for everyone.
 
