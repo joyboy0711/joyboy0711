@@ -2,12 +2,12 @@ My Name is (as per the Certificate) Vigneshwaran R. But, I prefer call my self a
 
 Currently planning to learn cool stuff and build something valuable for everyone.
 
-I am a CA final student still bending 1 year of articleship to appear in my final exams.
+I am a CA final student still pending a year of articleship to appear in the my final exams.
 
-I have familier with web development language like HTML, CSS, Javascript.
+I am familier with web development language like HTML, CSS, Javascript.
 
-Curently learning Reack and Python.
+Currently learning React and Python.
 
-I ready to colabe with anyone so, feel free to contact me with a mail id freedomchaserjb@gmail.com .
+I am ready to collabe with anyone so, feel free to contact me with a mail id freedomchaserjb@gmail.com .
 
 That's it for now.
