@@ -10,4 +10,4 @@ Curently learning Reack and Python.
 
 I ready to colabe with anyone so, feel free to contact me with a mail id freedomchaserjb@gmail.com .
 
-Thats it for now.
+That's it for now.
