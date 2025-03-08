@@ -1,17 +1,56 @@
+# 1. Who Am I?
 My Name is (as per the Certificate) Vigneshwaran R. But, I prefer call my self as Joyboy.
 
-Currently planning to learn cool stuff and build something valuable for everyone. Ultimately I want to change world. Make it better place for everyone.
+# 2. What is my vision?
+- Currently planning to learn cool stuff and build something valuable for everyone.
+- Ultimately I want to change the world, starting from myself.
+- Make it better place for everyone.
 
-I was a CA final student still pending a year of articleship to appear in the my final exams as on feb 2025, But with my article exprerience I can tell, I don't like the field,I don't want my life to waste it on it. I feel it is not worth it. So,I quit. And tryed bunch of things, and figured out I love problem solving and entered into the field of programming.
+# 3. Mission?
+- Build a AGI that will do all the work of human. And Human can focus on even grater stuff.
+- Making the world humgur free. Every one in the world have high quality food to eat and comfirtable place to stay. And,
+- Free Highest Quality Education for Everyone.
 
-I am familier with web development language like HTML, CSS, Javascript.
+# 4. What is my Story?
+  I don't thing my past provide any value to any one. It is who I am now and what I am capable of is all matters. And just now I started to working on my dreams precisely from March 2025. I don't know or care that I able to achive my dreams. But, I will work on it until I die.
 
-Code editor - Nvim.
+# 5. What I am familier with?
+## 5.1 Languages
+- HTML
+- CSS
+- Javascript
+- Python
+- R programming
+- Node Js
 
-Operating System - Debian.
+## 5.2 Code editors
+- Nvim
+- VS codium
 
-Currently learning React and Python.
+## 5.3 Operating System
+- Debian
+- Ubuntu
+- Windows
 
-I am ready to collabe with anyone so, feel free to contact me with a mail id freedomchaserjb@gmail.com .
+# 6. My Future learning Goals?
+## 6.1 Science
+- Neuro Science
+- Quantom Physics
+- And the things that curious to me.
 
-I am not limited to programming , I have love on learning things that are curiouse to me.
+## 6.2 Maths
+- Linear Algebra
+- Calculus
+- Probability
+- And the things that curious to me.
+
+## 6.3 And Most Impartatly the things that curious to me regardless of it's usefulness or a need of time. 
+
+# 7. Contact me:
+- Mail me at - [freedomchaserjb@gmail.com](mailto:freedomchaserjb@gmail.com)
+- Call me at - [+91 9486135614](tel:+919486135614)
+- Linkedin   - [Vigneshwaran R](https://www.linkedin.com/in/vigneshwaran-r-5b3285231)
+- You are already in my github profile.
+
+
+### (If any one intresed in helping me to grow or help me to achive my dreams pls contact me. I am a complete beginner who need a plenty of help to improve my knowlege. Thank you.)
