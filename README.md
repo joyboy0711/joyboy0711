@@ -1,4 +1,4 @@
-<img src=https:/My photo.jpg alt=Vigneshwaran width=300 align=right>
+<img src=https://github.com/joyboy0711/joyboy0711/blob/main/My%20photo.jpeg alt=Vigneshwaran width=300 align=right>
 
 # 1. Who Am I?
 My Name is (as per the Certificate) Vigneshwaran R. But, I prefer call my self as Joyboy.
