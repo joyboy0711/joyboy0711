@@ -12,6 +12,7 @@ My Name is (as per the Certificate) Vigneshwaran R. But, I prefer call my self a
 - Build a AGI that will do all the work of human. And Human can focus on even grater stuff.
 - Making the world humgur free. Every one in the world have high quality food to eat and comfirtable place to stay. And,
 - Free Highest Quality Education for Everyone.
+- Have one more secret mission too.
 
 # 4. What is my Story?
   I don't thing my past provide any value to any one. It is who I am now and what I am capable of is all matters. And just now I started to working on my dreams precisely from March 2025. I don't know or care that I able to achive my dreams. But, I will work on it until I die.
